@@ -49,13 +49,13 @@ const Hero = () => {
 
                     {/* Director Info - Simple */}
                     <div style={{ marginBottom: '2rem' }}>
-                        <h3 style={{ fontSize: '1.4rem', marginBottom: '0.25rem' }}>Synho Do, Ph.D.</h3>
+                        <h3 style={{ fontSize: '1.4rem', marginBottom: '0.25rem' }}>Synho Do, M.S., Ph.D.</h3>
                         <p style={{ color: 'var(--color-primary)', fontWeight: 500, marginBottom: '0.75rem' }}>
                             Director
                         </p>
                         <p style={{ color: 'var(--color-text-muted)', fontSize: '0.95rem', lineHeight: 1.8 }}>
-                            Harvard Medical School<br />
-                            Massachusetts General Hospital<br />
+                            Massachusetts General Hospital, Department of Radiology<br />
+                            Harvard Medical School, Assistant Professor<br />
                             Kempner Institute, Affiliate Faculty
                         </p>
                     </div>
